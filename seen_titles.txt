@@ -4,5 +4,5 @@ Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive 
 MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real
 Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer
 Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory
-RaGNNarok: A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles Memory
 RaGNNarok: A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles
+RaGNNarok: A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles Memory
