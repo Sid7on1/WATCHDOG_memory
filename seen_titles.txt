@@ -1,1 +1,15 @@
 
+Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory
+LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans
+Answer Matching Outperforms Multiple Choice for Language Model Evaluation
+MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs
+Contextual Online Pricing with (Biased) Offline Data
+Classification by Separating Hypersurfaces: An Entropic Approach
+Revisiting Active Learning under (Human) Label Variation
+Establishing Best Practices for Building Rigorous Agentic Benchmarks
+Moral Responsibility or Obedience: What Do We Want from AI?
+KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs
+Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching
+Neutrino mixing parameters and masses from $Δ(96)\rtimes H_{CP}$ in the tri-direct CP approach
+LCQNN: Linear Combination of Quantum Neural Networks
+MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real
