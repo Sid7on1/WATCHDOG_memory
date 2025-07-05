@@ -13,3 +13,13 @@ Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive 
 Neutrino mixing parameters and masses from $Δ(96)\rtimes H_{CP}$ in the tri-direct CP approach
 LCQNN: Linear Combination of Quantum Neural Networks
 MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real
+Subtyping in DHOL -- Extended preprint
+LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users
+MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis
+Online Conformal Prediction with Efficiency Guarantees
+The Gauss-Markov Adjunction: Categorical Semantics of Residuals in Supervised Learning
+Knowledge Protocol Engineering: A New Paradigm for AI in Domain-Specific Knowledge Work
+Defining and classifying models of groups: The social ontology of higher-order networks
+Designs from magic-augmented Clifford circuits
+Confidence-driven Gradient Modulation for Multimodal Human Activity Recognition: A Dynamic Contrastive Dual-Path Learning Approach
+RefTok: Reference-Based Tokenization for Video Generation
